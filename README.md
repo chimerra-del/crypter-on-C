@@ -17,3 +17,4 @@ A simple Crypter written in C
 — The code is suitable for use in real-world situations with some refinement.
 — The code is suitable for simple purposes.
 — I'm not responsible for the actions done with this thing, I just created it out of interest.
+— Created solely for educational purposes!
